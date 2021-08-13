@@ -1,0 +1,16 @@
+{
+  "name": "akhilmokariy/my-private-repo",
+  "description": "",
+  "keywords": ["wordpress","plugin"],
+  "homepage": "https://github.com/akhilmokariya/my-private-repo.git",
+  "authors": [
+    {
+      "name": "Advanced custom fields pro",
+      "homepage": "https://github.com/akhilmokariya/my-private-repo.git"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
